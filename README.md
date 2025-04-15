@@ -15,3 +15,10 @@ Este é um projeto desenvolvido em **React Native** utilizando **TypeScript**, c
 ## Tecnologias Utilizadas
 - **React Native**: Framework para desenvolvimento de aplicativos móveis.
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
+
+## IMAGENS
+
+<img src="https://github.com/user-attachments/assets/2fb430fb-7e12-4dec-9c2f-2ffdecab7363" width="200">
+<img src="https://github.com/user-attachments/assets/3368373a-e65c-474c-ae69-404fdedff66a" width="200">
+<img src="https://github.com/user-attachments/assets/5b89dc06-9a6b-42a0-b3af-85b1e50ab178" width="200">
+
